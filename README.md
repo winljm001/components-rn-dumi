@@ -23,11 +23,9 @@ yarn add hj-components-rn
 ## Usage
 
 ```js
-import HjComponentsRn from 'hj-components-rn';
+import { button } from 'hj-components-rn';
 
 // ...
-
-const result = await HjComponentsRn.multiply(3, 7);
 ```
 
 ## 注意
